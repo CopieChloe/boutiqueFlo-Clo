@@ -62,6 +62,9 @@ if(!userAdmin()) {
     <li class="nav-item">
         <a class="nav-link active" href="<?= URL ?>admin/liste_produit.php">Liste des produits</a>
     </li>
+    <li class="nav-item">
+        <a class="nav-link active" href="<?= URL ?>admin/gestion_membres.php">Gestion des membres</a>
+    </li>
     </ul>
 </nav>
 
